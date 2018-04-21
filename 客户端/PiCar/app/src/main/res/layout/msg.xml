@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 短信监控界面xml文件  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/main" android:id="@+id/msgmode">
+
+<TextView
+		android:id="@+id/TextView01"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="40dp"
+		android:textSize="35sp"
+		android:textColor="#00FF00"
+		android:textStyle="bold"
+		android:text="Remote    Control"
+		></TextView>
+
+<ImageButton
+        android:id="@+id/out_on"
+        android:src="@drawable/outon"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="40dp" 
+		android:layout_centerVertical="true"
+        >
+    	</ImageButton>
+    	
+<ImageButton
+        android:id="@+id/out_off"
+        android:src="@drawable/outoff"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="40dp" 
+		android:layout_marginTop="220dp"
+        >
+    	</ImageButton>
+    
+<ImageButton
+        android:id="@+id/door_on"
+        android:src="@drawable/dooropen"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="140dp" 
+		android:layout_centerVertical="true"
+        >
+    	</ImageButton>
+    	
+<ImageButton
+        android:id="@+id/door_off"
+        android:src="@drawable/doorclose"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="140dp" 
+		android:layout_marginTop="220dp"
+        >
+    	</ImageButton>
+
+		<!-- 开空调按钮 -->
+<ImageButton
+        android:id="@+id/air_on"
+        android:src="@drawable/airon"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_centerInParent="true"
+        >
+    	</ImageButton>
+    	
+		<!-- 关空调按钮 -->
+<ImageButton
+        android:id="@+id/air_off"
+        android:src="@drawable/airoff"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="220dip" 
+        >
+    	</ImageButton>
+
+<ImageButton
+        android:id="@+id/switcha_on"
+        android:src="@drawable/saon"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="340dp" 
+		android:layout_centerVertical="true"
+        >
+    	</ImageButton>
+    	
+<ImageButton
+        android:id="@+id/switcha_off"
+        android:src="@drawable/saoff"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="340dp" 
+		android:layout_marginTop="220dp"
+        >
+    	</ImageButton>
+
+<ImageButton
+        android:id="@+id/switchb_on"
+        android:src="@drawable/sbon"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="440dp" 
+		android:layout_centerVertical="true"
+        >
+    	</ImageButton>
+    	
+<ImageButton
+        android:id="@+id/switchb_off"
+        android:src="@drawable/sboff"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:adjustViewBounds="true" 
+		android:padding="0dip"
+		android:scaleType="fitCenter" 	
+		android:layout_marginLeft="440dp" 
+		android:layout_marginTop="220dp"
+        >
+    	</ImageButton>
+
+</RelativeLayout>
+
+

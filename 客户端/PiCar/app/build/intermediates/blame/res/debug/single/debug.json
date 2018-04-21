@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\setting.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn1_style.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\btn1_style.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\main.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\layout_control.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\control.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\debug\\layout_showinfo.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\showinfo.xml"
+    }
+]

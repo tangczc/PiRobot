@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\PiCar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "101,-1",
+                        "endColumns": "52,-1",
+                        "endOffsets": "149,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,42",
+                        "endOffsets": "103,146"
+                    }
+                }
+            ]
+        }
+    ]
+}

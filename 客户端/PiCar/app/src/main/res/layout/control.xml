@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/btn1_style"
+        android:text="停止" />
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:text="机器人控制程序"
+        android:textColor="#0A29EE"
+        android:textSize="20dp" />
+
+
+    <ToggleButton
+        android:id="@+id/tglBtn"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="95dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn1_style"
+        android:textOff="连接服务器"
+        android:textOn="断开服务器连接" />
+
+    <Button
+        android:id="@+id/forward"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="177dp"
+        android:background="@drawable/btn1_style"
+        android:text="前进" />
+
+    <Button
+        android:id="@+id/left"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@+id/text_title"
+        android:background="@drawable/btn1_style"
+        android:text="左转" />
+
+    <Button
+        android:id="@+id/right"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/text_title"
+        android:background="@drawable/btn1_style"
+        android:text="右转" />
+
+    <Button
+        android:id="@+id/down"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="173dp"
+        android:background="@drawable/btn1_style"
+        android:text="后退" />
+</RelativeLayout>

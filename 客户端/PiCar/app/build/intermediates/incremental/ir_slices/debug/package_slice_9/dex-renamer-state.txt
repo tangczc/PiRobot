@@ -1,0 +1,4 @@
+#Sat Apr 21 10:33:06 CST 2018
+base.0=D\:\\Android\\PiCar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\layout_menu.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\main.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-mdpi\\icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn1_style.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\btn1_style.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\layout_login.xml.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\PiCar\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_setting.jpg.flat",
+        "source": "D:\\Android\\PiCar\\app\\src\\main\\res\\drawable-hdpi\\setting.jpg"
+    }
+]

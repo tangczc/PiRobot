@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:3:7-31
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\PiCar\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:8:1-79
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:8:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:9:1-91
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:9:18-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:10:1-91
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:10:18-72
+application
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:13:5-27:19
+	android:label
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:13:48-80
+	android:icon
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:13:18-47
+activity#rootchen.MenuActivity
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:16:19-55
+	android:label
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:15:19-51
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:14:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:20:27-74
+activity#rootchen.VideoActivity
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:23:9-96
+	android:screenOrientation
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:23:57-94
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:23:19-56
+activity#rootchen.Main
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:24:9-87
+	android:screenOrientation
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:24:48-85
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:24:19-47
+activity#rootchen.Control_Activity
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:25:9-98
+	android:screenOrientation
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:25:60-96
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:25:19-59
+activity#rootchen.Show_Activity
+ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:26:9-95
+	android:screenOrientation
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:26:57-93
+	android:name
+		ADDED from D:\Android\PiCar\app\src\main\AndroidManifest.xml:26:19-56
